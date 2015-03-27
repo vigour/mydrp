@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	系统内部错误!
 </body>
 </html>
