@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>欢迎你！！！</h1>
-<%= response.sendRedirect(request.getContextPath()+"/index.do") %>
+
 </body>
 </html>
